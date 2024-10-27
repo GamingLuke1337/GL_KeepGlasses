@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Gamingluke1337'
-description 'Skript zum Behalten von Hüten und Helmen für Spieler und NPCs'
+description 'A simple FiveM script to prevent glasses/hats/helmets from loosing'
 version '1.0.0'
 
 -- Ressourcen
